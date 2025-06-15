@@ -1,10 +1,4 @@
-/*
-YÊU CẦU
-Xem các cột sau của bảng sales: mã đơn hàng, mã sản phẩm, tên sản phẩm, 
-doanh số (quantity), doanh thu (net_sales).
-*/
-SELECT customer_city
-FROM sales;
+
 
 /*
 YÊU CẦU
