@@ -1,4 +1,10 @@
-
+/*
+YÊU CẦU
+Xem các cột sau của bảng sales: mã đơn hàng, mã sản phẩm, tên sản phẩm, 
+doanh số (quantity), doanh thu (net_sales).
+*/
+SELECT customer_city
+FROM sales;
 
 /*
 YÊU CẦU
@@ -132,3 +138,5 @@ SELECT customer_state,
 FROM sales
 GROUP BY customer_state
 ORDER BY SUM(net_sales) DESC;
+
+/*Commit*/
